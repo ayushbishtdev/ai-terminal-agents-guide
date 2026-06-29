@@ -1,0 +1,5 @@
+Rank,Agent_Name,Primary_Architecture,Autonomy_Score,Best_Use_Case,Cost_Profile
+1,Claude Code,Anthropic Claude 3.5 Sonnet / Opus,94,Multi-file Architectural Refactors,High (Token Intensive)
+2,Codex CLI,OpenAI GPT-4o / Codex Native,88,Rapid Prototyping & Shell Automation,Medium
+3,Aider,Bring Your Own (OpenRouter / Local),85,Open-Source & Private Infrastructure,Low (Highly Scalable)
+4,Gemini CLI,Google Gemini 1.5 Pro / Flash,79,Massive Codebase Ingestion & GCP Sync,Low (Generous Free Tiers)
